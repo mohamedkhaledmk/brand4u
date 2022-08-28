@@ -1,7 +1,7 @@
 # Website name: Brand 4 U 
 ![](http://imgur.com/t3teAxi.png)
 ---
-## deploy link:(https://hotchpotch-store.herokuapp.com/cart)
+## deploy link:(https://dashboard.heroku.com/apps/mohamedkhaledmk)
 ## Built an e-commerce project using:
  * next js
  * javascript
