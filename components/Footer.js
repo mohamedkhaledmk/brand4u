@@ -68,7 +68,7 @@ function _footer() {
                   <a href="https://web.telegram.org/k/#@brand4uforwomen">
                     <i class="fab fa-telegram twitter-bg"></i>
                   </a>
-                  <a href="https://web.telegram.org/k/#@brand4uforwomen">
+                  <a href="https://wa.link/9c4rv4">
                     <i class="fab fa-whatsapp google-bg"></i>
                   </a>
                 </div>
