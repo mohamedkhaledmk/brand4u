@@ -62,7 +62,7 @@ function _footer() {
                   <a href="https://www.facebook.com/Brand-4-U-%D8%A8%D8%B1%D8%A7%D9%86%D8%AF-%D9%81%D9%88%D8%B1-%D9%8A%D9%88-104014472249442/">
                     <i class="fab fa-facebook-f facebook-bg"></i>
                   </a>
-                  <a href="https://web.telegram.org/k/#@brand4uclothes#">
+                  <a href="https://web.telegram.org/k/#@brand4uclothes">
                     <i class="fab fa-telegram twitter-bg"></i>
                   </a>
                   <a href="https://web.telegram.org/k/#@brand4uforwomen">
