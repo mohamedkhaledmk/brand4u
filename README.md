@@ -1,4 +1,4 @@
-# Website name: HotchPotch 
+# Website name: Brand 4 U 
 ![](http://imgur.com/t3teAxi.png)
 ---
 ## deploy link:(https://hotchpotch-store.herokuapp.com/cart)
